@@ -4,7 +4,7 @@ maintainer_email 'jbellone@bloomberg.net'
 license 'Apache 2.0'
 description 'Installs and configures the Jenkins Yum repository.'
 long_description 'Installs and configures the Jenkins Yum repository.'
-version '1.0.0'
+version '1.0.1'
 
 depends 'yum', '~> 3.2'
 
